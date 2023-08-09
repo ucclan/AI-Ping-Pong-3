@@ -1,0 +1,26 @@
+body{
+    background-size: cover;
+}
+
+#Instructions{
+    float: right;
+    font-size: 16px;
+}
+
+#myModal{
+    font-size: 19px;
+}
+
+#label_holder{
+    width: 100%
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: navy;
+    line-height: 3;
+    text-align: center;
+}
